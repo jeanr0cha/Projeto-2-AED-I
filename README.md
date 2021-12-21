@@ -8,3 +8,6 @@ Cadastro de vendedores.
 Cadastro de clientes.
 Pedidos contendo os itens vendidos pelos vendedores.
 Valor do pedido a ser exibido para o vendedor.
+
+Lin do video
+https://www.youtube.com/watch?v=bDyxaEQJYSA
