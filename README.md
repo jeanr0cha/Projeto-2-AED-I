@@ -1,4 +1,5 @@
 # Projeto-2-AED-I
+Integrantes: Glaucia Do Socorro e Jean Da Rocha
 
 Este projeto consiste em criar um programa capaz de gerenciar um sistema de loja contendo informações de seus clientes, vendedores, produtos vendidos. 
 
